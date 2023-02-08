@@ -1,0 +1,16 @@
+id: I81CD5849
+default_language: pi
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:08:21.624662
+last_modified: 2023-02-08 15:08:21.624807
+source_metadata:
+  title: Khaḍgaviṣāṇasūtra
+  language: pi
+bases:
+  35F2:
+    base_file: 35F2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
